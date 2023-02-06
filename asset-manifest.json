@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/basicEcomm/static/css/main.d9fc265e.css",
+    "main.js": "/basicEcomm/static/js/main.4d1916e0.js",
+    "index.html": "/basicEcomm/index.html",
+    "main.d9fc265e.css.map": "/basicEcomm/static/css/main.d9fc265e.css.map",
+    "main.4d1916e0.js.map": "/basicEcomm/static/js/main.4d1916e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9fc265e.css",
+    "static/js/main.4d1916e0.js"
+  ]
+}
