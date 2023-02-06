@@ -1,0 +1,42 @@
+.nav_bar{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#dropdown-basic-button, .d-flex{
+    margin: 5px;
+}
+
+.main_Card{
+    padding: 4px;
+    display: inline-block;
+    border: 1px solid black;
+    width: 205px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.main_Card:hover{
+    transition: all 0.7s ease-in-out;
+    box-shadow: 2.8px 2.8px lightgrey;
+}
+
+.card_name{
+    overflow:hidden;
+    height: 40px;
+    margin: 0px;
+    margin-bottom: 7px;
+    font-size: 14px;
+}
+
+.card_description{
+    overflow:hidden;
+    height: 80px;
+    margin: 0px;
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+
+body{
+    margin-left: 10px;
+}
